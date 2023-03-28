@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaac-parada
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning how to build and deploy ml solutions
+- 👀 I’m interested machine learning
+- 🌱 I’m currently learning how to tune and deploy ML models 
 
 - 📫 How to reach me: is.parada@outlook.com
 
